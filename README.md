@@ -7,7 +7,7 @@ Make sure this repository is public.
 <h3 align="center">Unity Game Developer • Full-Stack Developer • Founder @ Udvranto</h3>
 
 <p align="center">
-  Building immersive digital worlds with <strong>Unity</strong> & <strong>Unreal Engine 5</strong> and scalable web architectures.<br/>
+  Building immersive digital worlds with <strong>Unity</strong> & <strong>Unreal Engine 5</strong> and scalable full-stack web architectures.<br/>
   Founder & Full-Stack Developer at <a href="https://udvranto.com"><strong>Udvranto</strong></a> • Software Engineering Student.
 </p>
 
@@ -35,23 +35,22 @@ Make sure this repository is public.
 
 ## 🚀 About Me
 
-- 🏢 **Founder & Full-Stack Developer** at **[Udvranto](https://udvranto.com)**, a software application development company I own and operate.
+- 🏢 **Founder & Full-Stack Developer** at **[Udvranto](https://udvranto.com)**, a software application development company owned and operated by me.
 - 🎮 **Unity Game Developer** & **Full-Stack Developer** passionate about building interactive games and modern web applications.
 - 🎓 **Software Engineering student** at **Daffodil International University**.
-- 🕹️ I design, build, and prototype **2D and 3D games** for **Android** and **PC**, alongside full-stack web platforms.
-- 🧠 I'm especially interested in **gameplay mechanics**, **AI systems**, **scalable web architectures**, **optimization**, and **user/player experience**.
-- 🌱 Currently expanding my expertise in **Unity**, **Unreal Engine 5**, **Next.js / React**, **backend systems**, **NPC AI / behavior trees**, and **rendering techniques**.
+- 🕹️ I design, build, and prototype **2D and 3D games** for **Android** and **PC**, alongside full-stack web platforms using **Python (Django)** and modern JS frameworks.
+- 🧠 I'm especially interested in **gameplay mechanics**, **AI / computer vision systems**, **scalable web architectures**, **optimization**, and **player/user experience**.
+- 🌱 Currently growing in **Unity**, **Unreal Engine 5**, **Django & Full-Stack systems**, **NPC AI / behavior trees**, **OpenCV**, and **rendering techniques**.
 - 🤝 Open to **game dev & full-stack roles**, **client projects via Udvranto**, **collaborations**, and **game jams**.
 
-## 💻 Current Focus
+## 💡 Current Focus
 
 ```csharp
 // current_state.cs
 FocusOn(
-    role: "Unity Game Dev & Full-Stack Developer",
+    role: "Unity Game Developer & Full-Stack Developer",
     company: "Udvranto (udvranto.com) - Founder & Owner",
-    unity_and_ue5_dev: true,
-    fullstack_web_architecture: true,
-    mobile_and_web_optimization: true,
+    game_development: new[] { "Unity Engine", "Unreal Engine 5" },
+    fullstack_stack: new[] { "Python", "Django", "JavaScript", "TypeScript", "MySQL" },
     player_and_user_experience: true
 );
